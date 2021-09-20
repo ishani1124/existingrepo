@@ -1,2 +1,3 @@
 I am going to execute the git pull cmd
 git fetch
+I fetched and goind to git merge
