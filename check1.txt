@@ -1,1 +1,2 @@
 I am going to execute the git pull cmd
+git fetch
